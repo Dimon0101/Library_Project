@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артур\\Downloads\\Library_Project-master\\Library_Project-master\\Library_Project\\Library_Project.csproj": {}
+    "C:\\Uni\\Skibidi\\Library_Project\\Library_Project\\Library_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артур\\Downloads\\Library_Project-master\\Library_Project-master\\Library_Project\\Library_Project.csproj": {
+    "C:\\Uni\\Skibidi\\Library_Project\\Library_Project\\Library_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артур\\Downloads\\Library_Project-master\\Library_Project-master\\Library_Project\\Library_Project.csproj",
+        "projectUniqueName": "C:\\Uni\\Skibidi\\Library_Project\\Library_Project\\Library_Project.csproj",
         "projectName": "Library_Project",
-        "projectPath": "C:\\Users\\Артур\\Downloads\\Library_Project-master\\Library_Project-master\\Library_Project\\Library_Project.csproj",
-        "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артур\\Downloads\\Library_Project-master\\Library_Project-master\\Library_Project\\obj\\",
+        "projectPath": "C:\\Uni\\Skibidi\\Library_Project\\Library_Project\\Library_Project.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Uni\\Skibidi\\Library_Project\\Library_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Артур\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
